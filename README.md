@@ -5,11 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Gabrielce992&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
----
-
 ## 🧑‍💻 About me
 
-- 🎓 Estudiante de **Ingeniería de Software (UTP)**.
+- 🎓 Estudiante de **Ingeniería de Software**.
 - 🕹️ Especialista en **Unity 3D + Blender**, simulaciones técnicas (VR / experiencias interactivas).
 - 💻 Desarrollo **backend y full-stack** (Java · Spring Boot · React · PostgreSQL).
 - 🤖 Experimentos con **IA multimodal**, Python, análisis multimedia y herramientas inteligentes.
@@ -17,10 +15,8 @@
 - 📚 Actualmente profundizando en:
   - Arquitectura de software, patrones y buenas prácticas.
   - Spring Security / JWT, API REST y microservicios.
-- 🎨 Conecto 3D, IA y backend para crear **experiencias visuales potentes y funcionales**.
+- 💡 Me interesa conectar el mundo 3D, la IA y el backend para crear experiencias **útiles y visualmente potentes**.  
 - 📩 Contacto directo: **gabrielce992@gmail.com**
-
----
 
 ## 🌐 Connect with me
 
@@ -165,10 +161,10 @@ Mi portafolio completo con simulaciones 3D, videojuegos, web apps, scripts y pro
 
 ## 🎮 Some Projects
 
-### 🧍 Avatar 3D Personalizado  
-Simulación de personaje 3D con animaciones y assets personalizados.
+### 🧍 Custom 3D Avatar
+3D character simulation with custom animations and assets.
 
-**Stack principal:**  
+**Main Stack:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="28" height="28"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="28" height="28"/> 
@@ -176,15 +172,13 @@ Simulación de personaje 3D con animaciones y assets personalizados.
 </p>
 
 <a href="https://github.com/Gabrielce992/avatar-3d-demo">
-  <img src="https://img.shields.io/badge/▲%20VER%20DEMO-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▲%20VIEW%20DEMO-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+### 🌋 Interactive Geothermal Energy Simulator
+3D simulation based on 2D blueprints to visualize the geothermal energy cycle.
 
-### 🌋 Simulador Interactivo de Energía Geotérmica  
-Simulación 3D basada en plano 2D para visualizar el ciclo de energía geotérmica.
-
-**Stack principal:**  
+**Main Stack:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="28" height="28"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="28" height="28"/> 
@@ -192,32 +186,58 @@ Simulación 3D basada en plano 2D para visualizar el ciclo de energía geotérmi
 </p>
 
 <a href="https://github.com/Gabrielce992/geotermica-demo">
-  <img src="https://img.shields.io/badge/▲%20VER%20DEMO-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▲%20VIEW%20DEMO-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+### 🖼️ Wuayta - Art Gallery Platform
+Full-stack web platform for art galleries featuring payment integration and artwork management.
 
-### 🚘 Sistema Automatizado de Lavado de Autos  
-Prototipo físico con sensores y actuadores para automatizar el proceso de lavado.  
-🏆 **1.er puesto Tecweek 2022-I (Arquitectura de Computadoras)**.
+**Main Stack:**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" alt="Stripe" width="40" height="28"/>
+</p>
 
-**Stack principal:**  
+<a href="https://github.com/Gabrielce992/wuayta-demo">
+  <img src="https://img.shields.io/badge/▲%20VIEW%20DEMO-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+### 🧠 Memeverse Collapse (FPS Game)
+First-person shooter featuring wave-based combat, custom assets, and VFX particle systems.
+
+**Main Stack:**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="28" height="28"/>
+</p>
+
+<a href="https://github.com/Gabrielce992/invasion-espacial-demo">
+  <img src="https://img.shields.io/badge/▲%20VIEW%20DEMO-FF4500?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+### 🚘 Automated Car Wash System
+Physical prototype with sensors and actuators to automate the washing process.  
+🏆 **1st Place Tecweek 2022-I (Computer Architecture)**.
+
+**Main Stack:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="28" height="28"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="28" height="28"/> 
 </p>
 
 <a href="https://github.com/Gabrielce992/lavado-autos-demo">
-  <img src="https://img.shields.io/badge/▲%20VER%20DEMO-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▲%20VIEW%20DEMO-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+### 🤖 MAREA / AI Tools Suite
+Set of intelligent tools for multimedia analysis and adaptive learning:  
+**MAREA**, **NexusDownloader AI**, & **Playlist Harvester**.
 
-### 🤖 MAREA / IA Tools  
-Conjunto de herramientas para análisis multimedia e interfaces adaptativas:  
-**MAREA**, **NexusDownloader AI**, **Playlist Harvester AI**.
-
-**Stack principal:**  
+**Main Stack:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28" height="28"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="28" height="28"/> 
@@ -225,29 +245,16 @@ Conjunto de herramientas para análisis multimedia e interfaces adaptativas:
 </p>
 
 <a href="https://github.com/Gabrielce992/marea-demo">
-  <img src="https://img.shields.io/badge/▲%20VER%20MAREA-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▲%20VIEW%20MAREA-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
----
-## 📊 GitHub Stats
-
-<p align="left">
-
-  <!-- Stats generales -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrielce992&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-    alt="GitHub Stats"
-    style="margin-right: 15px;"
-  />
-
-  <!-- Racha de contribuciones -->
-  <img
-    src="https://streak-stats.demolab.com?user=Gabrielce992&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
-
-</p>
-
----
+<div align="center">
+  <br/>
+  <h3>🔥 My Activity Stats 🔥</h3>
+   
+  <img src="https://streak-stats.demolab.com?user=Gabrielce992&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+   
+  <p>
+      <em>Coding day by day! 💻✨</em>
+  </p>
+  <br/>
+</div>
