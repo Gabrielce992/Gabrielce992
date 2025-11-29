@@ -59,7 +59,6 @@
   <span style="vertical-align: middle;">
     <strong>Discord:</strong> 
     <code>Gabrieru__</code> · <code>gabrieru21th</code> 
-    <em>(thug shake 😎)</em>
   </span>
 </p>
 
