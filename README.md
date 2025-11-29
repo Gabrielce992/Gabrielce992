@@ -152,7 +152,7 @@ Mi portafolio completo con simulaciones 3D, videojuegos, web apps, scripts y pro
 
 <p>
   <a href="https://github.com/Gabrielce992/Portfolio-Projects-Casta-eda-Huaytalla">
-    <img src="https://img.shields.io/badge/📁%20VER%20PORTAFOLIO%20TÉCNICO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📁%20VER%20PORTAFOLIO%20COMPLETO-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
