@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Castañeda</h1>
-<h3 align="center">Software Engineering Student · Backend Developer · Game & 3D Interactive Systems · From Peru 🇵🇪</h3>
+<h3 align="center">Software Engineer · Data & Backend Developer · XR/AI Researcher · From Peru 🇵🇪</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gabrielce992&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -7,15 +7,15 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Estudiante de **Ingeniería de Software**.
-- 🕹️ Especialista en **Unity 3D + Blender**, simulaciones técnicas (VR / experiencias interactivas).
-- 💻 Desarrollo **backend y full-stack** (Java · Spring Boot · React · PostgreSQL).
-- 🤖 Experimentos con **IA multimodal**, Python, análisis multimedia y herramientas inteligentes.
-- ⚙️ Experiencia en soporte técnico, automatización y entornos híbridos.
-- 📚 Actualmente profundizando en:
-  - Arquitectura de software, patrones y buenas prácticas.
-  - Spring Security / JWT, API REST y microservicios.
-- 💡 Me interesa conectar el mundo 3D, la IA y el backend para crear experiencias **útiles y visualmente potentes**.  
+- 🎓 **Egresado de Ingeniería de Software** (Bachiller en trámite).
+- 💼 **Data, Automation & Backend:** Experiencia en integración de sistemas bancarios, migración de entornos Legacy (Mainframe/COBOL/Datacom) hacia arquitecturas modernas (Microservicios/.NET), y automatización de procesos (Python/PowerShell/Batch).
+- 🔬 **Investigador Académico (IEEE/LACCEI):** Autor principal de publicaciones sobre la efectividad de la Realidad Virtual y Aumentada (VR/AR) para capacitaciones en contextos críticos. 
+- 🕹️ **XR & 3D Development:** Especialista en Unity 3D, C# y Blender para el desarrollo de simulaciones técnicas y experiencias interactivas inmersivas.
+- 🤖 **IA & APIs:** Integración de IA multimodal, diseño de herramientas de extracción de datos, *lossless compression prompts* y consumo de APIs REST.
+- 📚 **Actualmente profundizando en:**
+  - Especializaciones de IBM (Java Developer, DevOps & Full Stack).
+  - Bases de datos relacionales avanzadas, optimización de queries (SQL Server) y BI.
+- 💡 Me interesa conectar el análisis de datos complejos, la inteligencia artificial y las tecnologías inmersivas (3D/XR) para resolver problemas empresariales y operativos.  
 - 📩 Contacto directo: **gabrielce992@gmail.com**
 
 ## 🌐 Connect with me
